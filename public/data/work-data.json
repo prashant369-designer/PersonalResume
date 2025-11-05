@@ -3,32 +3,38 @@
     {
       "image": "/images/work/icecream.webp",
       "title": "Ice-Cream Website",
-      "slug": "mug-sticker-designing"
+      "slug": "mug-sticker-designing",
+      "link":"https://github.com/prashant369-designer/IceCreamWeb-FullStack"
     },
     {
       "image": "/images/work/chatweb.avif",
       "title": "Chat-Web Design",
-      "slug": "mobile-app-design"
+      "slug": "mobile-app-design",
+      "link":"https://github.com/prashant369-designer/ChatWeb-FullStack"
     },
     {
       "image": "/images/work/eduweb.png",
       "title": "Education Website Template",
-      "slug": "fashion-website-template"
+      "slug": "fashion-website-template",
+      "link":"https://github.com/prashant369-designer/EdulearnWeb-FullStack"
     },
     {
       "image": "/images/work/aichatbot.jpeg",
       "title": "AI Chatbot",
-      "slug": "book-cover-design"
+      "slug": "book-cover-design",
+      "link":"https://github.com/prashant369-designer/OpneaiChatBot"
     },
     {
       "image": "/images/work/ecommerce.avif",
       "title": "E-Commerce Web",
-      "slug": "mobile-app-design"
+      "slug": "mobile-app-design",
+      "link":"https://github.com/prashant369-designer/E-commerce-FullStack"
     },
     {
       "image": "/images/work/restaurant.webp",
       "title": "Restaurant Chatbot",
-      "slug": "mug-sticker-designing"
+      "slug": "mug-sticker-designing",
+      "link":"https://github.com/prashant369-designer/SimpleRestaurantChatbot"
     }
   ]
 }
