@@ -1,0 +1,34 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/icecream.webp",
+      "title": "Ice-Cream Website",
+      "slug": "mug-sticker-designing"
+    },
+    {
+      "image": "/images/work/chatweb.avif",
+      "title": "Chat-Web Design",
+      "slug": "mobile-app-design"
+    },
+    {
+      "image": "/images/work/eduweb.png",
+      "title": "Education Website Template",
+      "slug": "fashion-website-template"
+    },
+    {
+      "image": "/images/work/aichatbot.jpeg",
+      "title": "AI Chatbot",
+      "slug": "book-cover-design"
+    },
+    {
+      "image": "/images/work/ecommerce.avif",
+      "title": "E-Commerce Web",
+      "slug": "mobile-app-design"
+    },
+    {
+      "image": "/images/work/restaurant.webp",
+      "title": "Restaurant Chatbot",
+      "slug": "mug-sticker-designing"
+    }
+  ]
+}
