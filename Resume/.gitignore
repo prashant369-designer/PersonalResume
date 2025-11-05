@@ -5,8 +5,6 @@
 /.next/
 /out/
 
-# production artifacts
-/build
 
 # misc
 .DS_Store
